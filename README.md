@@ -101,7 +101,7 @@ Dessa forma, é possível traçar um perfil médio do público alvo desse comér
 
  
 
-## 4.0. Aplicação do Modelo de Machine Learning 
+## 04. Aplicação do Modelo de Machine Learning 
 
 Por ser um problema com poucos dados, todo cuidado foi necessário para não prejudicar a performance do modelo. Valores irreais foram retirados. Alguns Outliers também tiveram que ser limitados. 
 Além disso, os dados foram separados entre Treino e Teste na proporção 70/30. A escolha do modelo foi feita com o uso do CrossValidation . A métrica de escolha utilizada foi o MAPE (Mean Absolute Percentage Error). Ela toma como base o erro percentual de cada previsão individual, e calcula a média final. O modelo com o menor MAPE deverá ser o escolhido. 
@@ -116,7 +116,7 @@ O comparativo dos modelos utilizados ficou da seguinte maneira:
  
 Tanto a DecisionTreeRegressor quanto a RandomForestRegressor, dois modelos com base em árvores de decisão, tiveram larga vantagem sobre os demais. Como a Random Forest apresentou valores melhores, ela foi a escolhida como o modelo a ser utilizado nesse primeiro ciclo.
 
-## 5.0. Performance do Modelo de Machine Learning 
+## 05. Performance do Modelo de Machine Learning 
 Modelo escolhido, devemos melhorar seus Hiperparametros e avaliar a sua capacidade de generalização. 
 Sobre os dados de Teste o modelo de Random Forest Regressor Aprensentou um valor de MAPE de 0.1051 . Ou seja, em média, o modelo erra 10.50% dos valores de faturamentos para dados nunca vistos antes. 
 Também avaliei o modelo utilizando o CrossValidation , só que dessa vez em todo o Dataset. 
