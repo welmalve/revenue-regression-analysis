@@ -23,9 +23,9 @@ A entrega desse projeto está sendo feita de algumas maneiras. Este documento co
 
 •	[[06. Resultados de Negócio](#06-resultados-de-negócio)]
 
-•	[07. Conclusões]
+•	[[07. Conclusões](#07-conclusões)]
 
-•	[08. Lições aprendidas]
+•	[[08. Lições aprendidas](#08-lições-aprendidas)]
 
 
 ## 01. O Problema de Negócio 
