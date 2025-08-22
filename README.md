@@ -130,7 +130,7 @@ O Modelo funciona de maneira satisfatória. Consegue aprender bons padrões dos 
  ![fat_pev real](https://user-images.githubusercontent.com/86089406/123552659-788ea500-d74d-11eb-8527-077d94e0e4d9.png)
 
 
-## 6.0. Resultados de Negócio 
+## 6.0 Resultados de Negócio 
 Visualizar os possíveis cenários é a melhor forma de traduzir o modelo para os resultados de negócio. Dessa forma, o cliente pode ter o valores previstos de faturamento e tomar decisões com base neles. 
 
 ![result_neg](https://user-images.githubusercontent.com/86089406/123552704-a542bc80-d74d-11eb-82fa-85c9131e30f9.png)
@@ -138,10 +138,10 @@ Visualizar os possíveis cenários é a melhor forma de traduzir o modelo para o
 
 O modelo final foi entregue em produção. Através de um questionário com 12 questões, é possível fazer uma previsão de faturamento de um bairro. Esse repositório está acompanhado de um arquivo chamado API Tester. Nele é possível usar a API.
 
-## 7.0. Conclusões 
+## 7.0 Conclusões 
 Este ciclo do projeto foi um sucesso. Mesmo com uma pequena base de dados, foi possível entregar uma Análise Exploratória de Dados com Insights sobre o negócio do cliente. Também foi entregue um modelo em produção capaz de fazer previsões sobre novos bairros, de forma acurada. O objetivo final foi concluido: Apoiar a tomada de decisão do cliente. 
 
-## 8.0. Lições Aprendidas 
+## 8.0 Lições Aprendidas 
 Esse projeto foi desafiador. Como desenvolver um modelo bom com poucos dados foi o principal ponto de reflexão. Devido a isso, acabei me aprofundando no funcionamento de algumas técnicas de avaliação. A Análise Exploratória de Dados também agregou de forma positiva. Além de desenvolver algumas técnicas e conhecer novas bibliotecas, foi possível obter um maior conhecimento de negócio. 
 
                                                              
