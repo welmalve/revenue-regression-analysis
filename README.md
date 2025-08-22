@@ -21,7 +21,7 @@ A entrega desse projeto está sendo feita de algumas maneiras. Este documento co
 
 •	[[05. Performance do Modelo de Machine Learning](#05-performance-do-modelo-de-machine-learning)]
 
-•	[06.Resultados de Negócio](#06-resultados-de-negócio)]
+•	[[06.Resultados de Negócio](#06-resultados-de-negócio)]
 
 •	[07. Conclusões]
 
