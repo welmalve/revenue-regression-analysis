@@ -15,7 +15,7 @@ A entrega desse projeto está sendo feita de algumas maneiras. Este documento co
 
 • [[02. A Solução](#02-a-solução)]
 
-•	[[03. Conhecimentos](#03-conhecimentos)] 
+•	[[03. Insights](#03-insights)] 
 
 •	[04. Aplicação do Modelo de Machine Learning]
 
@@ -43,7 +43,7 @@ A solução do problema está entregue em dois formatos:
 
 •	Modelo em Produção -> Modelo de Regressão em produção no Heroku. 
 
-## 3.0. Conhecimentos 
+## 03. Conhecimentos 
 Através da Análise Exploratória dos Dados, foi possível identificar alguns padrões sociodemográficos do público alvo do cliente. Algumas variáveis possuem um impacto sobre o problema em maior dimensão. As seguintes visões do problema foram analisadas: 
 
 ![MinMap_faturamento](https://user-images.githubusercontent.com/86089406/123551997-93abe580-d74a-11eb-9f14-dd16f2d7e8e4.png)
