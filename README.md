@@ -1,4 +1,5 @@
-# Case Técnico - Previsão de Faturamento
+# Análise de regressão de receita
+
 
 ## Introdução 
 
