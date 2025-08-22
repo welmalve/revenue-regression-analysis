@@ -15,7 +15,7 @@ A entrega desse projeto está sendo feita de algumas maneiras. Este documento co
 
 • [[02. A Solução](#02-a-solução)]
 
-•	[[03. Insights](#03-insights)] 
+•	[[03. Conhecimentos](#03-conhecimentos)] 
 
 •	[04. Aplicação do Modelo de Machine Learning]
 
