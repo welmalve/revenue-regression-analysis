@@ -17,7 +17,7 @@ A entrega desse projeto está sendo feita de algumas maneiras. Este documento co
 
 •	[[03. Insights](#03-insights)] 
 
-•	[[04. Aplicação do Modelo de Aprendizado de Máquina](#04-aplicação-do-modelo-de-aprendizado-de-máquina)]
+•	[[04. Aplicação do Modelo de Machine Learning](#04-aplicação-do-modelo-de-machine-learning)]
 
 •	[[05. Desempenho do Modelo de Machine Learning](#05-desempenho-do-modelo-de-machine-learning)]
 
